@@ -1,14 +1,14 @@
 # UnadTI
 @@ -0,0 +1,91 @@
 # Curriculum Vitae
-Rodrigo Barrera Bejarano
+Rodrigo Barrera
 
 
 ![](https://github.com/rabarrerab/UnadTI/blob/master/1.png)
 
 ####Telefono Movil				3143704793
-####E-mail				mga320@gmail.com
-####Skipe mga320@gmail.com
+####E-mail	mga320@hotmail.com
+####Skipe mga320@hotmail.com
 
 ##Perfil Profesional
 
