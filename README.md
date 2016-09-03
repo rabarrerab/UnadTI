@@ -4,7 +4,7 @@
 Rodrigo Barrera Bejarano
 
 
-![](https://github.com/rabarrerab/UnadTI/1.jpg)
+![](https://github.com/rabarrerab/UnadTI/blob/master/1.png)
 
 ####Telefono Movil				3143704793
 ####E-mail				mga320@gmail.com
